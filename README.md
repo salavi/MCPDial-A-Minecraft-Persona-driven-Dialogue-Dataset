@@ -1,1 +1,4 @@
-# MCPDial-A-Minecraft-Persona-driven-Dialogue-Dataset
+# MCPDial: A Minecraft Persona-driven Dialogue Dataset
+
+### Abstract
+We propose a novel approach that uses large language models (LLMs) to generate persona-driven conversations between Players and Non-Player Characters (NPC) in games. Showcasing the application of our methodology, we introduce the Minecraft Persona-driven Dialogue dataset (MCPDial). Starting with a small seed of expert-written conversations, we employ our method to generate hundreds of additional conversations. Each conversation in the dataset includes rich character descriptions of the player and NPC. The conversations are long, allowing for in-depth and extensive interactions between the player and NPC. MCPDial extends beyond basic conversations by incorporating canonical function calls (e.g. “Call find a resource on iron ore”) between the utterances. Finally, we conduct a qualitative analysis of the dataset to assess its quality and characteristics.
